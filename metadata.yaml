@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13058#The-Teeth-of-the-Tiger
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2004-07-30'
 gutenberg_type: Text
